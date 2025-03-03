@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://img.icons8.com/dotty/80/sql.png" width="50" title="SQL"/>  
+  <img src="https://img.icons8.com/ios/50/sql.png" width="50" title="SQL"/>  
   <img src="https://img.icons8.com/ios/50/microsoft-excel-2019.png" width="50" title="Excel"/>  
 </p>  
 
