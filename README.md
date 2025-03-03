@@ -1,4 +1,4 @@
-## Hi there 👋
+Introduction 
 
 <!--
 **liagreco/liagreco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, my name is Lia!  I am venturing into the world of data analysis, through the use of Excel and SQL.  
+
+
+Click here to find some of my projects: 
