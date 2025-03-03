@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Lia!  I am venturing into the world of data analysis, through the use of Excel and SQL.  
+Hi there! I'm **Lia**, an aspiring data enthusiast diving into the world of **SQL** and **Excel** 📊✨.  
 
-
-Click here to find some of my projects: 
+📫 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4B996?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=604D3C)](https://www.linkedin.com/in/rosalia-greco/)   [![Email](https://img.shields.io/badge/Email-D4B996?style=for-the-badge&logo=gmail&logoColor=white&fontColor=604D3C)](mailto:greco.lia31@gmail.com)
