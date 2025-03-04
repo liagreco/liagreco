@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   </p> 
   
 **📚 About Me**   
-  🌼 Currently Learning: SQL 🗄️ & Excel 📊  \
-  🍯 Interests: Healthcare Analytics 🩺
+  - 🌼 Currently Learning: SQL 🗄️ & Excel 📊  \
+  - 🍯 Interests: Healthcare Analytics 🩺
 
 ## 🛠️ Tech Stack  
 <p align="left">
