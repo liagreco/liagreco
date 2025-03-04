@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <img src= "https://github.com/liagreco/liagreco/blob/main/githubheader.png?raw=true"/>
 </p> 
 <p align="center">
-✨A former chemist dabbling in the world of data analytics✨
+✨A former chemist dabbling into the world of data analytics✨
   </p> 
   
-**About Me**  
-- 🌼 **Currently learning:** SQL 🗄️ & Excel 📊  
-- 🍯 **Interests:** Healthcare Analytics 🩺
+**📚 About Me**   
+  🌼 Currently Learning: SQL 🗄️ & Excel 📊  \
+  🍯 Interests: Healthcare Analytics 🩺
 
 ## 🛠️ Tech Stack  
 <p align="left">
