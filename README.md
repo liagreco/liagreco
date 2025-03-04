@@ -22,13 +22,13 @@ Here are some ideas to get you started:
   </p> 
   
 **📚 About Me**   
-  - 🌼 Currently Learning: SQL 🗄️ & Excel 📊  \
+  - 🌼 Currently Learning: SQL 🗄️ & Excel 📊  
   - 🍯 Interests: Healthcare Analytics 🩺
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/sql.png" width="50" title="SQL"/>  
-  <img src="https://img.icons8.com/ios/50/microsoft-excel-2019.png" width="50" title="Excel"/>  
+  <img src="https://img.icons8.com/ios/50/sql.png" width="35" title="SQL"/>  
+  <img src="https://img.icons8.com/ios/50/microsoft-excel-2019.png" width="35" title="Excel"/>  
 </p>  
 
 📫 **Connect with Me**  
