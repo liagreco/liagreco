@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Hi there!** I'm **Lia**, an aspiring data enthusiast diving into the world of **SQL** and **Excel** 📊✨.  
-
-
-
+<p align="center">
+<img src= "https://github.com/liagreco/liagreco/blob/main/githubheader.png?raw=true"/>
+</p> 
+<p align="center">
+✨A former chemist dabbling in the world of data analytics✨
+  </p> 
+  
 **About Me**  
 - 🌼 **Currently learning:** SQL 🗄️ & Excel 📊  
 - 🍯 **Interests:** Healthcare Analytics 🩺
