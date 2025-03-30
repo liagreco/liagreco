@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
   
 ### 📚 About Me
-  - 🎓 Degree: Bachelor of Science in Biochemistry
+  - 🎓 Degree: Bachelor of Science in Biochemistry🧬
      - Attended: Stony Brook University 🐺
   - 🌼 Currently Learning: Excel 📊 + SQL 🗄 + R 🅡 + Python 🐍
   - 🍯 Interests: Marketing Analytics 📈
