@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ✨A former chemist dabbling into the world of data analytics✨
   </p> 
   
-**📚 About Me**   
+## 📚 About Me
   - 🌼 Currently Learning: SQL 🗄️ & Excel 📊  
-  - 🍯 Interests: Healthcare Analytics 🩺
+  - 🍯 Interests: Marketing Analytics 📈
 
 ## 🛠️ Tech Stack  
 <p align="left">
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios/50/microsoft-excel-2019.png" width="35" title="Excel"/>  
 </p>  
 
-📫 **Connect with Me**  
+## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4B996?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=604D3C)](https://www.linkedin.com/in/rosalia-greco/)   [![Email](https://img.shields.io/badge/Email-D4B996?style=for-the-badge&logo=gmail&logoColor=white&fontColor=604D3C)](mailto:greco.lia31@gmail.com)
