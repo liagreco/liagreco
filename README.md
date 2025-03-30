@@ -18,8 +18,17 @@ Here are some ideas to get you started:
 <img src= "https://github.com/liagreco/liagreco/blob/main/githubheader.png?raw=true"/>
 </p> 
 <p align="center">
-✨A former chemist dabbling into the world of data analytics✨
-  </p> 
+  ✨A former chemist dabbling into the world of data analytics✨
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rosalia-greco/" style="text-decoration: none; display: block; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-6C81BD?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=364d91" alt="LinkedIn" />
+  </a>
+  <a href="mailto:greco.lia31@gmail.com" style="text-decoration: none; display: block; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Email-6C81BD?style=for-the-badge&logo=gmail&logoColor=white&fontColor=364d91" alt="Email" />
+  </a>
+</p>
   
 ### 📚 About Me
   - 🎓 Degree: Bachelor of Science in Biochemistry
@@ -38,17 +47,7 @@ Here are some ideas to get you started:
 - Google Data Analytics Professional Certificate 🅶
   - Active Enrollment: DataQuest 👩🏻‍💻
     
-<p align="center"><strong>📫 Connect with Me</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rosalia-greco/" style="text-decoration: none; display: block; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-6C81BD?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=364d91" alt="LinkedIn"/>
-  </a>
-  <span>&nbsp;&nbsp;</span> <!-- Adding two spaces -->
-  <a href="mailto:greco.lia31@gmail.com" style="text-decoration: none; display: block;">
-    <img src="https://img.shields.io/badge/Email-6C81BD?style=for-the-badge&logo=gmail&logoColor=white&fontColor=364d91" alt="Email"/>
-  </a>
-</p>
 
 
 
