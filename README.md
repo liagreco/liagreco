@@ -42,10 +42,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rosalia-greco/" style="text-decoration: none; display: block; margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-6C81BD?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=364d91" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-6C81BD?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=364d91" alt="LinkedIn"/>
   </a>
-  <a href="mailto:greco.lia31@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-6C81BD?style=for-the-badge&logo=gmail&logoColor=white&fontColor=364d91" alt="Email" />
+  <span>&nbsp;&nbsp;</span> <!-- Adding two spaces -->
+  <a href="mailto:greco.lia31@gmail.com" style="text-decoration: none; display: block;">
+    <img src="https://img.shields.io/badge/Email-6C81BD?style=for-the-badge&logo=gmail&logoColor=white&fontColor=364d91" alt="Email"/>
   </a>
 </p>
+
+
 
