@@ -21,15 +21,31 @@ Here are some ideas to get you started:
 ✨A former chemist dabbling into the world of data analytics✨
   </p> 
   
-## 📚 About Me
-  - 🌼 Currently Learning: SQL 🗄️ & Excel 📊  
+### 📚 About Me
+  - 🎓 Degree: Bachelor of Science in Biochemistry
+     - Attended: Stony Brook University 🐺
+  - 🌼 Currently Learning: Excel 📊 + SQL 🗄 + R 🅡 + Python 🐍
   - 🍯 Interests: Marketing Analytics 📈
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/sql.png" width="35" title="SQL"/>  
-  <img src="https://img.icons8.com/ios/50/microsoft-excel-2019.png" width="35" title="Excel"/>  
-</p>  
+  <img src="https://img.icons8.com/ios-filled/50/6c81bd/microsoft-excel-2019.png" width="35" title="Excel"/>
+  <img src="https://img.icons8.com/ios-filled/50/6c81bd/postgreesql.png" alt="postgreesql" width="35" title="SQL"/>  
+  <img src="https://img.icons8.com/ios-filled/50/6c81bd/r.png"width="35" title="R"/>  
+  <img src="https://img.icons8.com/ios-filled/50/6c81bd/python.png"width="35" title="Python"/>  
+  
+### ✅ Certifications
+- Google Data Analytics Professional Certificate 🅶
+  - Active Enrollment: DataQuest 👩🏻‍💻
+    
+<p align="center"><strong>📫 Connect with Me</strong></p>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4B996?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=604D3C)](https://www.linkedin.com/in/rosalia-greco/)   [![Email](https://img.shields.io/badge/Email-D4B996?style=for-the-badge&logo=gmail&logoColor=white&fontColor=604D3C)](mailto:greco.lia31@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rosalia-greco/" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-6C81BD?style=for-the-badge&logo=linkedin&logoColor=white&fontColor=364d91" alt="LinkedIn" />
+  </a>
+  <a href="mailto:greco.lia31@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-6C81BD?style=for-the-badge&logo=gmail&logoColor=white&fontColor=364d91" alt="Email" />
+  </a>
+</p>
+
