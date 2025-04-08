@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </a>
 </p>
   
-### 📚 About Me
+### 📚 Quick Intro
   - 🎓 Degree: Bachelor of Science in Biochemistry🧬
      - Attended: Stony Brook University 🐺
   - 🌼 Currently Learning: Excel 📊 + SQL 🗄 + R 🅡 + Python 🐍
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Google Data Analytics Professional Certificate 🅶
   - Active Enrollment: DataQuest 👩🏻‍💻
     
-
+### ✨Learn More [About Me](https://github.com/liagreco/About-Me)!✨
 
 
 
