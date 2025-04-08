@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - 🎓 Degree: Bachelor of Science in Biochemistry🧬
      - Attended: Stony Brook University 🐺
   - 🌼 Currently Learning: Excel 📊 + SQL 🗄 + R 🅡 + Python 🐍
-  - 🍯 Interests: Marketing Analytics 📈
+  - 🍯 Interests: Healthcare 🩺 and Marketing Analytics 📈
 
 ### 🛠️ Tech Stack  
 <p align="left">
